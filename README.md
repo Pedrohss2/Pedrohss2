@@ -9,8 +9,8 @@
 
  
 <div align="center">
-  <h1>IDEs usadas:</h1>
+  <h1 >IDEs usadas:</h1>
 </div>  
 <div>
-    <img alt="Inteliji" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+    <img alt="Inteliji" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=blue" />
  </div> 
