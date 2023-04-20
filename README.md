@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff2222&height=90&section=header"/>
+
 <div align="center">
   <h1>Olá! Eu sou Pedro Henrique</h1>
 </div>  
