@@ -15,13 +15,15 @@
 </div>  
 <div>
     <img alt="Inteliji" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
  </div> 
  <div align="center">
   <h1 >Estudando:</h1>
 </div>  
 <div>
     <img alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img alt="" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+    <img alt"" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
  </div> 
   
  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff2222&height=90&section=footer"/>
- 
