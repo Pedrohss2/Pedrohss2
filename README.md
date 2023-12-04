@@ -20,15 +20,12 @@
  </div> 
 
  <div align="center">
- <h1>Tecnologias: </h1>
+ <h1>Estudando: </h1>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7fa7bb&size=20&vCenter=true&width=1000&lines=technologies;Tecnologias+aprendidas+ou+em+aprendizagem:)](https://git.io/typing-svg)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,java,spring,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,java,spring,mysql" />
   </a>
 </p>  
-  
-  
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff2222&height=90&section=footer"/>
