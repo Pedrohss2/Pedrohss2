@@ -23,7 +23,6 @@
  <h1>Estudando: </h1>
 </div>
 
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,java,spring,mysql,maven,hibernate"/>
