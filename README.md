@@ -13,8 +13,9 @@
 
 ### 💻 Technologies & Tools  
 - **Languages:** JavaScript / TypeScript  
-- **Backend:** Node.js, NestJS, Java (Spring Boot)  
-- **Frontend:** Next.js  
+- **Backend:** Node.js, NestJS, Java (Spring Boot)
+- **Database:** Mysql, PostgreSQL, Firebird
+- **Frontend:** Html5, css, React, Next.js, Tailwindcss  
 
 ---
 > “Great things are built one small step at a time.” 🚀
