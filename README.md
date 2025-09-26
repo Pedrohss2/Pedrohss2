@@ -12,7 +12,7 @@
 ---
 
 ### 💻 Technologies & Tools  
-- **Languages:** JavaScript / TypeScript  
+- **Languages:** JavaScript / TypeScript / Java  
 - **Frontend:** HTML5, CSS, React, Next.js, Tailwindcss  
 - **Backend:** Node.js, NestJS, Java (Spring Boot)
 - **Database:** Mysql, PostgreSQL, Firebird
