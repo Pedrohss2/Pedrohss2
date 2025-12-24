@@ -7,7 +7,7 @@
 📫 **How to reach me:**  
 - [LinkedIn](https://www.linkedin.com/in/pedro-henrique-b748a7261/)  
 - 📧 **Email:** pedro2266809ph@gmail.com  
-- 🌐 [My Website](https://my-cv-ten-pearl.vercel.app/)  
+- 🌐 [My Website](https://pedro-cv-portfolio.vercel.app/)  
 
 ---
 
